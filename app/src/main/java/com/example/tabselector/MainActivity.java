@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         addControl();
         addEvet();
+
+        // commit vỡn có thay đồi ở git không
     }
 
     private void addEvet() {
